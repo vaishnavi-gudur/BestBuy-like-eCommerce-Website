@@ -1,1 +1,0 @@
-http://www.phptpoint.com/how-to-send-mail-in-php/
