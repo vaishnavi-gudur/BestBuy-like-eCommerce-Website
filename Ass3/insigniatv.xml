@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+		<id>1</id>
+		<name>Insignia 39" Class</name>
+		<brand>Insignia</brand>
+		<condition>New</condition>
+		<price>$179</price>
+	</phone>
+</product>

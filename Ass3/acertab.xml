@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<product>
+	<tablet>	
+		<id>1</id>
+		<productName>Acer Iconia 10</productName>
+		<brand>Acer</brand>
+		<condition>New</condition>
+		<price>$140</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>67416</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Tablet</category>
+		
+	</tablet>
+	<tablet>
+		<id>2</id>
+		<productName>Acer America</productName>
+		<brand>Acer</brand>
+		<condition>New</condition>
+		<price>$166</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>66415</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Tablet</category>
+		
+	</tablet>
+</product>

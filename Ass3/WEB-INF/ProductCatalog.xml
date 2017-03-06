@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+	<SmartPhoneCatalog>
+		<smartphone id="samsung">
+			<name>Samsung Galaxy S7</name>
+			<price>690</price>
+			<brand>Samsung</brand>
+		</smartphone>
+		<smartphone id="apple">
+			<name>Iphone 6</name>
+			<price>780</price>
+			<brand>Apple</brand>
+		</smartphone>
+	</SmartPhoneCatalog>
+</ProductCatalog>

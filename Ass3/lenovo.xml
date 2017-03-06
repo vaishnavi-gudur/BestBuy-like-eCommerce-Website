@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<product>
+	<laptop>	
+		<id>1</id>
+		<name>Lenovo Flex 4</name>
+		<brand>Lenovo</brand>
+		<condition>New</condition>
+		<price>$619</price>
+	</laptop>
+	<laptop>
+		<id>2</id>
+		<name>Lenovo 300 17-isk</name>
+		<brand>Lenovo</brand>
+		<condition>Used</condition>
+		<price>$332</price>
+	</laptop>
+</product>

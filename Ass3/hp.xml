@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<product>
+	<laptop>	
+		<id>1</id>
+		<productName>HP Pavilion 15</productNameame>
+		<brand>HP</brand>
+		<condition>New</condition>
+		<price>$559</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Dallas</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>66165</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Laptop</category>
+		</laptop>
+	<laptop>
+		<id>2</id>
+		<productName>HP Stream 14</productName>
+		<brand>HP</brand>
+		<condition>New</condition>
+		<price>$219</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Dallas</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>66165</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Laptop</category>
+		
+	</laptop>
+</product>

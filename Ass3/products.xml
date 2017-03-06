@@ -1,0 +1,348 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+		<id>1</id>
+		<productName>Samsung Galaxy S7</productName>
+		<brand>Samsung</brand>
+		<condition>New</condition>
+		<price>680</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Chicago</retailercity>
+		<retailerstate>IL</retailerstate>
+		<retailerzip>60616</retailerzip>
+		<category>SmartPhone</category>
+		
+	</phone>
+	<phone>
+		<id>2</id>
+		<productName>Samsung Galaxy Note 3</productName>
+		<brand>Samsung</brand>
+		<condition>Used</condition>
+		<price>500</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Chicago</retailercity>
+		<retailerstate>IL</retailerstate>
+		<retailerzip>60616</retailerzip>
+		<category>SmartPhone</category>
+	</phone>
+	<laptop>	
+		<id>3</id>
+		<productName>Dell Inspiron 17</productName>
+		<brand>Dell Inspiron 17</brand>
+		<condition>New</condition>
+		<price>580</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Detroit</retailercity>
+		<retailerstate>Michigan</retailerstate>
+		<retailerzip>60070</retailerzip>
+		<category>Laptop</category>
+		
+	</laptop>
+	<laptop>
+		<id>4</id>
+		<productName>Dell Precision 17</productName>
+		<brand>Dell</brand>
+		<condition>New</condition>
+		<price>999</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Detroit</retailercity>
+		<retailerstate>Michigan</retailerstate>
+		<retailerzip>60070</retailerzip>
+		<category>Laptop</category>
+		
+	</laptop>
+	<tablet>	
+		<id>5</id>
+		<productName>Asus ZenPad 8.0</productName>
+		<brand>Asus</brand>
+		<condition>New</condition>
+		<price>129</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Los Angeles</retailercity>
+		<retailerstate>CA</retailerstate>
+		<retailerzip>65641</retailerzip>
+		<category>Tablet</category>
+		
+	</tablet>
+	<tablet>
+		<id>6</id>
+		<productName>Asus Transformer Pad</productName>
+		<brand>Asus</brand>
+		<condition>Used</condition>
+		<price>134</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Los Angeles</retailercity>
+		<retailerstate>CA</retailerstate>
+		<retailerzip>65641</retailerzip>
+		<category>Tablet</category>
+		
+	</tablet>
+	<phone>	
+	<id>7</id>
+	<productName>Iphone 7</productName>
+		<brand>Apple</brand>
+		<condition>New</condition>
+		<price>790</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Austin</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>60459</retailerzip>
+		<category>SmartPhone</category>
+		
+		
+	</phone>
+	<phone>
+		<id>8</id>
+		<productName>Iphone 6s</productName>
+		<brand>Apple</brand>
+		<condition>Used</condition>
+		<price>500</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Austin</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>60459</retailerzip>
+		<category>SmartPhone</category>
+		
+	</phone>
+	<phone>	
+		<id>9</id>
+		<productName>Apple MacBook Air</productName>
+		<brand>Apple</brand>
+		<condition>New</condition>
+		<price>550</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Austin</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>61235</retailerzip>
+		<category>Laptop</category>
+		
+	</phone>
+	<phone>
+		<id>10</id>
+		<productName>Apple MacBook Pro</productName>
+		<brand>Apple</brand>
+		<condition>Used</condition>
+		<price>289</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>67416</retailerzip>
+		<category>Laptop</category>
+		
+	</phone>
+	<tablet>	
+		<id>11</id>
+		<productName>Acer Iconia 10</productName>
+		<brand>Acer</brand>
+		<condition>New</condition>
+		<price>140</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>67416</retailerzip>
+		<category>Tablet</category>
+		
+	</tablet>
+	<tablet>
+		<id>12</id>
+		<productName>Acer America</productName>
+		<brand>Acer</brand>
+		<condition>New</condition>
+		<price>166</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>66415</retailerzip>
+		<category>Tablet</category>
+		
+	</tablet>
+	<phone>	
+		<id>13</id>
+		<productName>Acer Liquid Jade Z</productName>
+		<brand>Acer</brand>
+		<condition>Used</condition>
+		<price>206</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Boston</retailercity>
+		<retailerstate>MA</retailerstate>
+		<retailerzip>68416</retailerzip>
+		<category>SmartPhone</category>
+		
+		
+	</phone>
+	<phone>
+		<id>14</id>
+		<productName>Acer Predator 8</productName>
+		<brand>Acer</brand>
+		<condition>New</condition>
+		<price>318</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Boston</retailercity>
+		<retailerstate>MA</retailerstate>
+		<retailerzip>68416</retailerzip>
+		<category>SmartPhone</category>
+		
+	</phone>
+	<phone>	
+		<id>15</id>
+		<productName>HTC Desire 820</productName>
+		<brand>HTC</brand>
+		<condition>New</condition>
+		<price>580</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Detroit</retailercity>
+		<retailerstate>Michigan</retailerstate>
+		<retailerzip>60070</retailerzip>
+		<category>SmartPhone</category>
+		
+	</phone>
+	<phone>
+		<id>16</id>
+		<productName>HTC One</productName>
+		<brand>HTC</brand>
+		<condition>New</condition>
+		<price>500</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Detroit</retailercity>
+		<retailerstate>Michigan</retailerstate>
+		<retailerzip>60070</retailerzip>
+		<category>SmartPhone</category>
+		
+	</phone>
+	<phone>	
+		<id>17</id>
+		<productName>Sony Xperia Z1</productName>
+		<brand>SONY</brand>
+		<condition>New</condition>
+		<price>640</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Detroit</retailercity>
+		<retailerstate>Michigan</retailerstate>
+		<retailerzip>60070</retailerzip>
+		<category>SmartPhone</category>
+	</phone>
+	<phone>
+		<id>18</id>
+		<productName>Sony Xperia XZ</productName>
+		<brand>SONY</brand>
+		<condition>New</condition>
+		<price>950</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Detroit</retailercity>
+		<retailerstate>Michigan</retailerstate>
+		<retailerzip>60070</retailerzip>
+		<category>SmartPhone</category>
+	</phone>
+	<laptop>	
+		<id>19</id>
+		<productName>Lenovo Flex 4</productName>
+		<brand>Lenovo</brand>
+		<condition>New</condition>
+		<price>619</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>66415</retailerzip>
+		<category>Laptop</category>
+	</laptop>
+	<laptop>
+		<id>26</id>
+		<productName>Apple MacBook Pro</productName>
+		<brand>Apple</brand>
+		<condition>Used</condition>
+		<price>289</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>67416</retailerzip>
+		<category>Laptop</category>
+		
+	</laptop>
+	<tablet>	
+		<id>27</id>
+		<productName>LG GPad 8.3</productName>
+		<brand>LG</brand>
+		<condition>New</condition>
+		<price>320</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>67416</retailerzip>
+		<category>Tablet</category>
+	</tablet>
+	<tablet>
+		<id>28</id>
+		<productName>LG GPad 8.3</productName>
+		<brand>LG</brand>
+		<condition>New</condition>
+		<price>135</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>67416</retailerzip>
+		<category>Tablet</category>
+	</tablet>
+	<tablet>	
+		<id>29</id>
+		<productName>Google Nexus 5X</productName>
+		<brand>Google</brand>
+		<condition>New</condition>
+		<price>490</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Dallas</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>66165</retailerzip>
+		<category>Tablet</category>
+	</tablet>
+	<tablet>
+		<id>30</id>
+		<productName>Google Nexus 6P</productName>
+		<brand>Google</brand>
+		<condition>Used</condition>
+		<price>270</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Dallas</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>66165</retailerzip>
+		<category>Tablet</category>
+	</tablet>
+	<tv>	
+		<id>31</id>
+		<productName>Panasonic Class HD</productName>
+		<brand>Panasonic</brand>
+		<condition>New</condition>
+		<price>2,237</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Dallas</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>66165</retailerzip>
+		<category>TV</category>
+	</tv>
+	<tv>	
+		<id>32</id>
+		<productName>Insignia 39" Class</productName>
+		<brand>Insignia</brand>
+		<condition>New</condition>
+		<price>179</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Dallas</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>66165</retailerzip>
+		<category>TV</category>
+	</tv>
+	<tv>	
+		<id>33</id>
+		<productName>Hitachi 65K3</productName>
+		<brand>Hitachi</brand>
+		<condition>New</condition>
+		<price>629</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Dallas</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>66165</retailerzip>
+		<category>TV</category>
+	</tv>
+	
+	
+	
+</product>

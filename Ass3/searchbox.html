@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+<title>Search Box</title>
+</head>
+<body onload="init()">
+<script type="text/javascript" src="javascript.js"></script>
+<div name="autofillform">
+<input type="text" name="searchId" value="" class="input" id="searchId" onkeyup="doCompletion()" placeholder="search here.." style="padding: 5px; font-size: 16px;" />
+<div id="auto-row">
+<table id="complete-table" class="gridtable" style="position:absolute; width:315px;"></table>
+</div>
+</div>
+</body>
+</html>

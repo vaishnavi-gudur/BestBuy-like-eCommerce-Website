@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html charset=utf-8" />
+<title>BestDeal - Login</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<!--
+spigot, a free CSS web template by ZyPOP (zypopwebtemplates.com/)
+
+Download: http://zypopwebtemplates.com/
+
+License: Creative Commons Attribution
+//-->
+</head>
+<body>
+<div id="container">
+  <header>
+    	<h1><a href="/">Best<span>Deal</span></a></h1>
+        <h2>The Best You Can Get</h2>
+    </header>
+    <nav>
+    	<ul>
+        	<li class="start"><a href="index.html">Home</a></li>
+            <li><a href="#">Smartphones</a></li>
+            <li><a href="#">Laptops</a></li>
+            <li><a href="#">Tablets</a></li>
+			<li><a href="#">TV</a></li>
+            <li class="end"><a href="#">Contact</a></li>
+			<!--<li class="selected"><a href="#">Login</a></li>-->
+        </ul>
+    </nav>
+
+    <div id="body">
+		
+        <section id="content">
+		</section>
+		<aside class='sidebar'>
+		<ul>
+        <li>
+        <h4>SmartPhones</h4>
+        <ul>
+        <li><a href='SmartServlet?brand=samsung'>Samsung</a></li>
+        <li><a href='SmartServlet?brand=htc'>HTC</a></li>
+        <li><a href='SmartServlet?brand=apple'>Apple</a></li>
+        <li><a href='SmartServlet?brand=sony'>SONY</a></li>
+        <li><a href='SmartServlet?brand=acer'>Acer</a></li>
+        </ul>
+        </li>
+                
+        <li>
+        <h4>Laptops</h4>
+        <ul>
+        <li><a href='LaptopServlet?make=dell'>Dell</a></li>
+		<li><a href='LaptopServlet?make=lenovo'>Lenovo</a></li>
+		<li><a href='LaptopServlet?make=hp'>HP</a></li>
+		<li><a href='LaptopServlet?make=panasonic'>Panasonic</a></li>
+		<li><a href='LaptopServlet?make=apple'>Apple</a></li>
+        </li>
+        </ul>
+        </li>
+                
+        <li>
+        <h4>Tablets</h4>
+        <ul>
+		<li><a href='TabletServlet?brand=lg'>LG</a></li>
+		<li><a href='TabletServlet?brand=acer'>Acer</a></li>
+		<li><a href='TabletServlet?brand=asus'>Asus</a></li>
+		<li><a href='TabletServlet?brand=samsung'>Samsung</a></li>
+		<li><a href='TabletServlet?brand=google'>Google</a></li>
+        </li>
+		</ul>
+        </li>
+                
+        <li>
+        <h4>TV</h4>
+        <ul>
+		<li><a href='Tvservlet?brand=panasonic'>Panasonic</a></li>
+		<li><a href='Tvservlet?brand=sony'>SONY</a></li>
+		<li><a href='Tvservlet?brand=toshiba'>Toshiba</a></li>
+		<li><a href='Tvservlet?brand=insignia'>Insignia</a></li>
+		<li><a href='Tvservlet?brand=hitachi'>Hitachi</a></li>
+        </li>
+		</ul>
+        </li>
+        
+        
+        </aside>
+    	
+
+	        
+            <p>&nbsp</p>
+
+            
+            <h3>Login</h3>
+
+            <fieldset>
+                <legend>Login</legend>
+                <form action="/CSP/login" method="get">
+                    <p><label for="userid">UserID:</label>
+                    <input name="userid" id="userid" value="userid" type="text" /></p>
+                    <p><label for="password">Password:</label>
+                    <input name="password" id="password" value="password" type="password" /></p>
+
+                    
+                    <input type ="submit" value="login"/>
+                </form>
+				<br><a href="/CSP/regiform">New User?Sign Up here</a>
+            </fieldset>
+			
+      		</article>
+        </section>
+        
+        <div class="clear"></div>
+    </div>
+    <footer>
+        <div class="footer-content">
+            <div class="clear"></div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy YourSite 2010. <a href="http://zypopwebtemplates.com/">Free CSS Web Templates</a> by ZyPOP</p>
+         </div>
+    </footer>
+</div>
+</body>
+</html>

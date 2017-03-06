@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+		<id>1</id>
+		<name>Sony Xperia Z1</name>
+		<brand>SONY</brand>
+		<condition>New</condition>
+		<price>$640</price>
+	</phone>
+	<phone>
+		<id>2</id>
+		<name>Sony Xperia XZ</name>
+		<brand>SONY</brand>
+		<condition>New</condition>
+		<price>$950</price>
+	</phone>
+</product>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+		<id>1</id>
+		<productName>Apple MacBook Air</productName>
+		<brand>Apple</brand>
+		<condition>New</condition>
+		<price>$550</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Austin</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>61235</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Laptop</category>
+		
+	</phone>
+	<phone>
+		<id>2</id>
+		<productName>Apple MacBook Pro</productNameame>
+		<brand>Apple</brand>
+		<condition>Used</condition>
+		<price>$289</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Indiana</retailercity>
+		<retailerstate>IN</retailerstate>
+		<retailerzip>67416</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Laptop</category>
+		
+	</phone>
+</product>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+		<id>1</id>
+		<name>Hitachi 65K3</name>
+		<brand>Hitachi</brand>
+		<condition>New</condition>
+		<price>$629</price>
+	</phone>
+</product>

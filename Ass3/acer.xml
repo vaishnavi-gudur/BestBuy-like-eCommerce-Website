@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+		<id>1</id>
+		<productName>Acer Liquid Jade Z</productName>
+		<brand>Acer</brand>
+		<condition>Used</condition>
+		<price>$206</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Boston</retailercity>
+		<retailerstate>MA</retailerstate>
+		<retailerzip>68416</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>SmartPhone</category>
+		
+		
+	</phone>
+	<phone>
+		<id>2</id>
+		<productName>Acer Predator 8</productName>
+		<brand>Acer</brand>
+		<condition>New</condition>
+		<price>$318</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Boston</retailercity>
+		<retailerstate>MA</retailerstate>
+		<retailerzip>68416</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>SmartPhone</category>
+		
+	</phone>
+</product>

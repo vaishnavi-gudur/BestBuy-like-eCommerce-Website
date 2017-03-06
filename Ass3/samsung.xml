@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+		<id>1</id>
+		<productName>Samsung Galaxy S7</productName>
+		<brand>Samsung</brand>
+		<condition>New</condition>
+		<price>680</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Chicago</retailercity>
+		<retailerstate>IL</retailerstate>
+		<retailerzip>60616</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>SmartPhone</category>
+		
+	</phone>
+	<phone>
+		<id>2</id>
+		<productName>Samsung Galaxy Note 3</productName>
+		<brand>Samsung</brand>
+		<condition>Used</condition>
+		<price>500</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Chicago</retailercity>
+		<retailerstate>IL</retailerstate>
+		<retailerzip>60616</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>SmartPhone</category>
+	</phone>
+</product>

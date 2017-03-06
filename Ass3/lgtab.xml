@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<product>
+	<tablet>	
+		<id>1</id>
+		<name>LG GPad 8.3</name>
+		<brand>LG</brand>
+		<condition>New</condition>
+		<price>$320</price>
+	</tablet>
+	<tablet>
+		<id>2</id>
+		<name>LG GPad 8.3</name>
+		<brand>LG</brand>
+		<condition>New</condition>
+		<price>$135</price>
+	</tablet>
+</product>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<product>
+	<tablet>	
+		<id>1</id>
+		<productName>Asus ZenPad 8.0</productName>
+		<brand>Asus</brand>
+		<condition>New</condition>
+		<price>129</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Los Angeles</retailercity>
+		<retailerstate>CA</retailerstate>
+		<retailerzip>65641</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Tablet</category>
+		
+	</tablet>
+	<tablet>
+		<id>2</id>
+		<productName>Asus Transformer Pad</productName>
+		<brand>Asus</brand>
+		<condition>Used</condition>
+		<price>134</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Los Angeles</retailercity>
+		<retailerstate>CA</retailerstate>
+		<retailerzip>65641</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Tablet</category>
+		
+	</tablet>
+</product>

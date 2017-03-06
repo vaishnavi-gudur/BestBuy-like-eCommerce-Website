@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+		<id>1</id>
+		<name>Panasonic Class HD</name>
+		<brand>Panasonic</brand>
+		<condition>New</condition>
+		<price>$2,237</price>
+	</phone>
+	
+</product>

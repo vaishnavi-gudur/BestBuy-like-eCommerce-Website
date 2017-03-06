@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<product>
+	<tablet>	
+		<id>1</id>
+		<name>Google Nexus 5X</name>
+		<brand>Google</brand>
+		<condition>New</condition>
+		<price>$490</price>
+	</tablet>
+	<tablet>
+		<id>2</id>
+		<name>Google Nexus 6P</name>
+		<brand>Google</brand>
+		<condition>Used</condition>
+		<price>$270</price>
+	</tablet>
+</product>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<product>
+	<laptop>	
+		<id>1</id>
+		<productName>Dell Inspiron 17</productName>
+		<brand>Dell Inspiron 17</brand>
+		<condition>New</condition>
+		<price>580</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Detroit</retailercity>
+		<retailerstate>Michigan</retailerstate>
+		<retailerzip>60070</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Laptop</category>
+		
+	</laptop>
+	<laptop>
+		<id>2</id>
+		<productName>Dell Precision 17</productName>
+		<brand>Dell</brand>
+		<condition>New</condition>
+		<price>999</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Detroit</retailercity>
+		<retailerstate>Michigan</retailerstate>
+		<retailerzip>60070</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>Laptop</category>
+		
+	</laptop>
+</product>

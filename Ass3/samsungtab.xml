@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<product>
+	<tablet>	
+		<id>1</id>
+		<name>Samsung Galaxy Tab A</name>
+		<brand>Samsung</brand>
+		<condition>New</condition>
+		<price>$199</price>
+	</tablet>
+	<tablet>
+		<id>2</id>
+		<name>Samsung Galaxy Tab E Lite</name>
+		<brand>Samsung</brand>
+		<condition>Used</condition>
+		<price>$119</price>
+	</tablet>
+</product>

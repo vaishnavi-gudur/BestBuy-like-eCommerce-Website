@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+		<id>1</id>
+		<name>Sony 75" Ultra HDR</name>
+		<brand>Sony</brand>
+		<condition>New</condition>
+		<price>$3,299</price>
+	</phone>
+</product>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<product>
+	<phone>	
+	<id>1</id>
+	<productName>Iphone 7</productName>
+		<brand>Apple</brand>
+		<condition>New</condition>
+		<price>790</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Austin</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>60459</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>SmartPhone</category>
+		
+		
+	</phone>
+	<phone>
+		<id>2</id>
+		<productName>Iphone 6s</productName>
+		<brand>Apple</brand>
+		<condition>Used</condition>
+		<price>500</price>
+		<retailername>BestDeal</retailername>
+		<retailercity>Austin</retailercity>
+		<retailerstate>TX</retailerstate>
+		<retailerzip>60459</retailerzip>
+		<manufacturerrebate>Yes</manufacturerrebate>
+		<category>SmartPhone</category>
+		
+	</phone>
+</product>
