@@ -1,0 +1,83 @@
+<html>
+<head>
+<script type="text/javascript">
+function validate()
+{
+
+	var len=0;
+	for (i = 0; i < movie.length; i++) {
+        if (movie[i].checked) {
+            len=1;
+        }
+		}
+		if(len==0)
+		{
+		alert("Please select a movie.");
+		return false;
+		}
+    return true;
+}
+</script>
+<style>
+body{
+background: url(back.jpg);
+}
+td{
+color:white;
+font-size:3vh;
+
+}
+img{
+height:40vh;
+width:25vh;
+}
+</style>
+</head>
+<body>
+<h2 style="color:white; font-size:4vh;"><center><u>Select Date and Movie</u></center></h2>
+<form name="step1" onsubmit="return validate();" action="" method="post">
+<label style="font-size:3.5vh; color:white; margin-left:50vh; margin-right:50vh; margin-top:20vh;"><b>Select Date</b>
+<input type="date" name="date"/>
+</label>
+<table width="100%" style="margin-right:50vh; margin-top:20px;">
+<tr>
+<td><center><img src="interstellar.jpg" alt="interstellar"/></center></td>
+<td><center><img src="download.jpg" alt="PK"/></center></td>
+<td><center><img src="taken3.jpg" alt="taken3"/></center></td>
+<td><center><img src="khoobsurat.jpg" alt="khoobsurat"/></center></td>
+</tr>
+<tr>
+<td><center>Interstellar</center></td>
+<td><center>Pk</center></td>
+<td><center>Taken 3</center></td>
+<td><center>Khoobsurat</center></td>
+</tr>
+<tr>
+<td><center><input type="radio" id="movie" name="movie" value="interstellar"></center></td>
+<td><center><input type="radio" id="movie" name="movie" value="PK"></center></td>
+<td><center><input type="radio" id="movie" name="movie" value="Taken 3"></center></td>
+<td><center><input type="radio" id="movie" name="movie" value="Khoobsurat"></center></td>
+</tr>
+<tr>
+<td><br><br><center><img src="lego.jpg" alt="lego"/></center></td>
+<td><br><br><center><img src="2states.jpg" alt="2states"/></center></td>
+<td><br><br><center><img src="imitation.jpg" alt="The imitation Game"/></center></td>
+<td><br><br><center><img src="queen.jpg" alt="queen"/></center></td>
+</tr>
+<tr>
+<td><center>The Lego Movie</center></td>
+<td><center>2 States</center></td>
+<td><center>The Imitation Game</center></td>
+<td><center>Queen</center></td>
+</tr>
+<tr>
+<td><center><input type="radio" id="movie" name="movie" value="lego"></center></td>
+<td><center><input type="radio" id="movie" name="movie" value="2states"></center></td>
+<td><center><input type="radio" id="movie" name="movie" value="imitation"></center></td>
+<td><center><input type="radio" id="movie" name="movie" value="Queen"></center></td>
+</tr>
+</table>
+<center><input type="submit" onclick="location.href='khoobsurat.html'" name="proceed" value="Proceed" style="font-size:120%; margin-top:20px;"/></center>
+</form>
+</body>
+</html>
