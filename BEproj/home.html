@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:#500000 ;
+    color:white;
+    text-align:center;
+    padding: 50px;
+}
+#nav {
+position: relative;
+    line-height:10px;
+    background-color:white;
+    height:700px;
+    width:100px;
+    float:center;
+    padding:5px;	      
+}
+#nav1 {
+height: 600px;
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    position:relative;
+    background-color:#500000 ;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+	
+}
+
+
+
+<!--- 3 circles css begins ---->
+@import url(https://fonts.googleapis.com/css?family=Nunito:400,700,300);
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+}
+body .page {
+  margin: 0 auto;
+  width: 920px;
+}
+body .content {
+  width: 33.33%;
+  display: inline-block;
+  margin: 0 auto;
+  position: relative;
+  height: 50vh;
+  max-width: 300px;
+}
+body .circle_inner__layer {
+  width: 600px;
+  height: 200px;
+  -webkit-transition: all .4s;
+  //transition: all .4s;
+  position:;
+  //top: 0;
+  //left: -200px;
+}
+body .circle_inner__layer img {
+  width: 100%;
+  position:;
+  bottom: 0;
+}
+body .circle {
+  position: relative;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 50%;
+  width: 250px;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  cursor: pointer;
+}
+body .circle:hover .circle_shine {
+  top: 330px;
+  left: -200px;
+}
+body .circle_shine {
+  background: white;
+  width: 600px;
+  -webkit-transition: .3s;
+  transition: .3s;
+  height: 200px;
+  opacity: 0.2;
+  top: -10px;
+  left: -90px;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+  position: absolute;
+  z-index: 2;
+}
+body .circle:hover h2, body .circle:hover h3 {
+  opacity: 1;
+  top: -36px;
+}
+body .circle:hover .content_shadow {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  top: -22px;
+}
+body .circle:hover h3 {
+  -webkit-transition: all .2s .04s;
+  transition: all .2s .04s;
+}
+body .circle:hover h2 {
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+body .circle .circle_inner__layer:nth-of-type(1) {
+  top: 0px;
+  left: 0px;
+}
+body .circle .circle_inner__layer:nth-of-type(2) {
+  top: 0px;
+  left: -210px;
+}
+body .circle .circle_inner__layer:nth-of-type(3) {
+  top: 0px;
+  left: -440px;
+}
+body .circle_title {
+  text-align: center;
+}
+body .circle_title h2, body .circle_title h3 {
+  opacity: 0;
+  color: #500000;
+  margin: 0;
+  -webkit-transition: all .2s .04s;
+  transition: all .2s .04s;
+  position: relative;
+  top: -10px;
+}
+body .circle_title h3 {
+  -webkit-transition: all .2s;
+  //transition: all .2s;
+  color: #B0D5D6;
+  font-size: 15px;
+}
+body .circle_inner {
+  border-radius: 200px;
+  background: #B0D5D6;
+  overflow: hidden;
+  margin: auto;
+  //width: 250px;
+  z-index: 1;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  height: 250px;
+  position: relative;
+}
+body .circle_inner:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+body .circle_inner:hover .circle_inner__layer:nth-of-type(1) {
+  left: -80px;
+  -webkit-transition: all 4s linear;
+  transition: all 4s linear;
+}
+body .circle_inner:hover .circle_inner__layer:nth-of-type(2) {
+  left: -400px;
+  -webkit-transition: all 4s linear;
+  transition: all 4s linear;
+}
+body .circle_inner:hover .circle_inner__layer:nth-of-type(3) {
+  left: -140px;
+  -webkit-transition: all 4s linear;
+  transition: all 4s linear;
+}
+body .content_shadow {
+  width: 200px;
+  box-shadow: 0px 31px 19px -2px #E0E8F9;
+  height: 20px;
+  border-radius: 70%;
+  position: relative;
+  top: -44px;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  z-index: 0;
+  <!-- 3 circles css ends -->
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<font size="200px">B.E. PROJECT PORTAL</font> 
+</div>
+<h1 style="color: #500000"><center>Who do you want to login as?</center></h1>
+<div id="nav1">
+<div class='page'>
+  <div class='content'>
+    <div class='circle'>
+      <div class='circle_title'>
+        <h2>Admin</h2>
+        <h3></h3>
+      </div>
+      <div class='circle_inner'>
+        <div class='circle_inner__layer'>
+          <a href="adminindex.php"><img src='admin.png' width="20px" height="300px"></a>
+       </div>
+        <!--<div class='circle_inner__layer'>
+          <img src='admin.png'>
+        </div>
+        <div class='circle_inner__layer'>
+          <img src='admin.png'>
+        </div>-->
+      </div>
+      <div class='content_shadow'></div>
+    </div>
+  </div>
+  <div class='content'>
+    <div class='circle'>
+      <div class='circle_title'>
+        <h2>Guide</h2>
+        <h3></h3>
+      </div>
+      <div class='circle_inner'>
+        <div class='circle_inner__layer'>
+          <a href="guideindex.php"><img src='guide.png' width="20px" height="300px"></a>
+        </div>
+        <!--<div class='circle_inner__layer'>
+          <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/pc5.png'>
+        </div>
+        <div class='circle_inner__layer'>
+          <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/pc6.png'>
+        </div>-->
+      </div>
+      <div class='content_shadow'></div>
+    </div>
+  </div>
+  <div class='content'>
+    <div class='circle'>
+      <div class='circle_title'>
+        <h2>Student Group</h2>
+        <h3></h3>
+      </div>
+      <div class='circle_inner'>
+        <div class='circle_inner__layer'>
+          <a href="groupindex.php"><img src='group.png' width="20px" height="300px"></a>
+        </div>
+        <!--<div class='circle_inner__layer'>
+          <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/pc8.png'>
+        </div>
+        <div class='circle_inner__layer'>
+          <img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/pc9.png'>
+        </div>-->
+      </div>
+      <div class='content_shadow'></div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div id="footer">
+<br>
+
+</div>
+
+</body>
+</html>
