@@ -1,0 +1,15 @@
+CREATE TABLE test_table_r(ID INT PRIMARYKEY,VALUE VARCHAR(4),SIZE INT);
+
+INSERT INTO test_table_r  VALUES (1,'aaaa',23);
+INSERT INTO test_table_r VALUES (2,'bbbb',56);
+INSERT INTO test_table_r  VALUES (3,'cccc',98);
+INSERT INTO test_table_r  VALUES (4,'dddd',65);
+INSERT INTO test_table_r  VALUES (5,'eeee',45);
+
+SELECT * FROM test_table_r;
+
+SELECT * FROM test_table_r where ID=2;
+
+DELETE FROM test_table_r where ID=2;
+
+UPDATE FROM test_table_r (3,'ffff',67);
